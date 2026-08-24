@@ -1,0 +1,22 @@
+opm_tolerance_pct: 1.0
+
+roce_benchmarks:
+  default:
+    good: 15.0
+    excellent: 25.0
+  Financials:
+    good: 12.0
+    excellent: 18.0
+    
+high_leverage_de: 5.0
+icr_warning_threshold: 1.5
+
+cfo_quality_window_years: 5
+cfo_quality_high: 1.0
+cfo_quality_moderate: 0.5
+capex_asset_light_pct: 3.0
+capex_capital_intensive_pct: 8.0
+shareholder_returns_cfo_pat: 1.5
+
+roce_roe_tolerance_pct: 5.0
+version_diff_relative: 0.25

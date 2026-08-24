@@ -1,0 +1,1002 @@
+rule,table,company_id,year,field,issue,severity
+DQ-02,profitandloss,ADANIPORTS,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,profitandloss,ADANIPORTS,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-09,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,ASIANPAINT,2024-09,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,PNB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-09,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,POWERGRID,2024-09,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2024-09,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,balancesheet,TECHM,2024-09,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,ABB,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,BAJAJ-AUTO,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2013-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2014-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2015-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2016-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2017-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2018-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2019-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2020-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2021-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2022-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2023-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-02,cashflow,TCS,2024-03,"company_id,year",duplicate annual pk,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ULTRACEMCO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNIONBANK,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,UNITDSPR,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2012-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2013-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2014-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2015-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2016-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2017-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2018-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2019-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2020-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2021-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2022-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VBL,2023-12,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,VEDL,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,WIPRO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZOMATO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,profitandloss,ZYDUSLIFE,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZYDUSLIFE,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ZOMATO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,WIPRO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,VEDL,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNITDSPR,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,UNIONBANK,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,balancesheet,ULTRACEMCO,2024-09,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,AGTL,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ULTRACEMCO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNIONBANK,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,UNITDSPR,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2012-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2013-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2014-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2015-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2016-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2017-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2018-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2019-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2020-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2021-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2022-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VBL,2023-12,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,VEDL,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,WIPRO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZOMATO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZOMATO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZOMATO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZOMATO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZOMATO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,cashflow,ZYDUSLIFE,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,analysis,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ULTRACEMCO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNIONBANK,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,UNITDSPR,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VBL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,VEDL,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZOMATO,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,documents,ZYDUSLIFE,,company_id,orphan company_id,CRITICAL
+DQ-03,prosandcons,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,prosandcons,WIPRO,,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,ULTRACEMCO,2024-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2013-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2014-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2015-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2016-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2017-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2018-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2019-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2020-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2021-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2022-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2023-03,company_id,orphan company_id,CRITICAL
+DQ-03,financial_ratios,UNIONBANK,2024-03,company_id,orphan company_id,CRITICAL
+DQ-05,profitandloss,ADANIENSOL,2024-03,opm_percentage,opm delta 4.39,WARNING
+DQ-05,profitandloss,AXISBANK,2013-03,opm_percentage,opm delta 1322.42,WARNING
+DQ-05,profitandloss,AXISBANK,2014-03,opm_percentage,opm delta 2275.53,WARNING
+DQ-05,profitandloss,AXISBANK,2015-03,opm_percentage,opm delta 3065.64,WARNING
+DQ-05,profitandloss,AXISBANK,2016-03,opm_percentage,opm delta 3433.39,WARNING
+DQ-05,profitandloss,AXISBANK,2017-03,opm_percentage,opm delta 5768.45,WARNING
+DQ-05,profitandloss,AXISBANK,2018-03,opm_percentage,opm delta 10340.12,WARNING
+DQ-05,profitandloss,AXISBANK,2019-03,opm_percentage,opm delta 5496.39,WARNING
+DQ-05,profitandloss,AXISBANK,2020-03,opm_percentage,opm delta 9914.98,WARNING
+DQ-05,profitandloss,AXISBANK,2021-03,opm_percentage,opm delta 2560.12,WARNING
+DQ-05,profitandloss,AXISBANK,2022-03,opm_percentage,opm delta 3125.53,WARNING
+DQ-05,profitandloss,AXISBANK,2023-03,opm_percentage,opm delta 13822.84,WARNING
+DQ-05,profitandloss,AXISBANK,2024-03,opm_percentage,opm delta 11917.31,WARNING
+DQ-05,profitandloss,BAJFINANCE,2015-03,opm_percentage,opm delta 1334.51,WARNING
+DQ-05,profitandloss,BAJFINANCE,2016-03,opm_percentage,opm delta 1953.75,WARNING
+DQ-05,profitandloss,BAJFINANCE,2017-03,opm_percentage,opm delta 2834.4,WARNING
+DQ-05,profitandloss,BAJFINANCE,2018-03,opm_percentage,opm delta 3902.72,WARNING
+DQ-05,profitandloss,BAJFINANCE,2019-03,opm_percentage,opm delta 6280.5,WARNING
+DQ-05,profitandloss,BAJFINANCE,2020-03,opm_percentage,opm delta 7573.27,WARNING
+DQ-05,profitandloss,BAJFINANCE,2021-03,opm_percentage,opm delta 6273.36,WARNING
+DQ-05,profitandloss,BAJFINANCE,2022-03,opm_percentage,opm delta 9868.45,WARNING
+DQ-05,profitandloss,BAJFINANCE,2023-03,opm_percentage,opm delta 15987.35,WARNING
+DQ-05,profitandloss,BAJFINANCE,2024-03,opm_percentage,opm delta 19957.71,WARNING
+DQ-05,profitandloss,BANKBARODA,2013-03,opm_percentage,opm delta 975.95,WARNING
+DQ-05,profitandloss,BANKBARODA,2014-03,opm_percentage,opm delta 779.22,WARNING
+DQ-05,profitandloss,BANKBARODA,2015-03,opm_percentage,opm delta 872.02,WARNING
+DQ-05,profitandloss,BANKBARODA,2016-03,opm_percentage,opm delta 11755.44,WARNING
+DQ-05,profitandloss,BANKBARODA,2017-03,opm_percentage,opm delta 4415.28,WARNING
+DQ-05,profitandloss,BANKBARODA,2018-03,opm_percentage,opm delta 9253.65,WARNING
+DQ-05,profitandloss,BANKBARODA,2019-03,opm_percentage,opm delta 5462.79,WARNING
+DQ-05,profitandloss,BANKBARODA,2020-03,opm_percentage,opm delta 11779.44,WARNING
+DQ-05,profitandloss,BANKBARODA,2021-03,opm_percentage,opm delta 7008.23,WARNING
+DQ-05,profitandloss,BANKBARODA,2022-03,opm_percentage,opm delta 2999.12,WARNING
+DQ-05,profitandloss,BANKBARODA,2023-03,opm_percentage,opm delta 6288.55,WARNING
+DQ-05,profitandloss,BANKBARODA,2024-03,opm_percentage,opm delta 4064.51,WARNING
+DQ-05,profitandloss,CANBK,2013-03,opm_percentage,opm delta 633.82,WARNING
+DQ-05,profitandloss,CANBK,2014-03,opm_percentage,opm delta 696.35,WARNING
+DQ-05,profitandloss,CANBK,2015-03,opm_percentage,opm delta 644.51,WARNING
+DQ-05,profitandloss,CANBK,2016-03,opm_percentage,opm delta 8048.38,WARNING
+DQ-05,profitandloss,CANBK,2017-03,opm_percentage,opm delta 5812.85,WARNING
+DQ-05,profitandloss,CANBK,2018-03,opm_percentage,opm delta 13411.87,WARNING
+DQ-05,profitandloss,CANBK,2019-03,opm_percentage,opm delta 11646.73,WARNING
+DQ-05,profitandloss,CANBK,2020-03,opm_percentage,opm delta 12920.88,WARNING
+DQ-05,profitandloss,CANBK,2021-03,opm_percentage,opm delta 18428.83,WARNING
+DQ-05,profitandloss,CANBK,2022-03,opm_percentage,opm delta 13715.39,WARNING
+DQ-05,profitandloss,CANBK,2023-03,opm_percentage,opm delta 9926.8,WARNING
+DQ-05,profitandloss,CANBK,2024-03,opm_percentage,opm delta 7786.75,WARNING
+DQ-05,profitandloss,CHOLAFIN,2013-03,opm_percentage,opm delta 445.23,WARNING
+DQ-05,profitandloss,CHOLAFIN,2014-03,opm_percentage,opm delta 549.58,WARNING
+DQ-05,profitandloss,CHOLAFIN,2015-03,opm_percentage,opm delta 667.44,WARNING
+DQ-05,profitandloss,CHOLAFIN,2016-03,opm_percentage,opm delta 868.96,WARNING
+DQ-05,profitandloss,CHOLAFIN,2017-03,opm_percentage,opm delta 1114.84,WARNING
+DQ-05,profitandloss,CHOLAFIN,2018-03,opm_percentage,opm delta 1424.9,WARNING
+DQ-05,profitandloss,CHOLAFIN,2019-03,opm_percentage,opm delta 1865.04,WARNING
+DQ-05,profitandloss,CHOLAFIN,2020-03,opm_percentage,opm delta 1671.21,WARNING
+DQ-05,profitandloss,CHOLAFIN,2021-03,opm_percentage,opm delta 2063.6,WARNING
+DQ-05,profitandloss,CHOLAFIN,2022-03,opm_percentage,opm delta 2895.17,WARNING
+DQ-05,profitandloss,CHOLAFIN,2023-03,opm_percentage,opm delta 3486.9,WARNING
+DQ-05,profitandloss,CHOLAFIN,2024-03,opm_percentage,opm delta 4519.9,WARNING
+DQ-05,profitandloss,CIPLA,2013-03,opm_percentage,opm delta 2140.74,WARNING
+DQ-05,profitandloss,CIPLA,2014-03,opm_percentage,opm delta 2068.1,WARNING
+DQ-05,profitandloss,CIPLA,2015-03,opm_percentage,opm delta 2082.06,WARNING
+DQ-05,profitandloss,CIPLA,2016-03,opm_percentage,opm delta 2397.98,WARNING
+DQ-05,profitandloss,CIPLA,2017-03,opm_percentage,opm delta 2413.34,WARNING
+DQ-05,profitandloss,CIPLA,2018-03,opm_percentage,opm delta 2744.65,WARNING
+DQ-05,profitandloss,CIPLA,2019-03,opm_percentage,opm delta 3015.93,WARNING
+DQ-05,profitandloss,CIPLA,2020-03,opm_percentage,opm delta 3124.71,WARNING
+DQ-05,profitandloss,CIPLA,2021-03,opm_percentage,opm delta 4174.2,WARNING
+DQ-05,profitandloss,CIPLA,2022-03,opm_percentage,opm delta 4473.92,WARNING
+DQ-05,profitandloss,CIPLA,2023-03,opm_percentage,opm delta 4949.09,WARNING
+DQ-05,profitandloss,CIPLA,2024-03,opm_percentage,opm delta 6215.41,WARNING
+DQ-05,profitandloss,COALINDIA,2013-03,opm_percentage,opm delta 18013.48,WARNING
+DQ-05,profitandloss,COALINDIA,2014-03,opm_percentage,opm delta 17691.16,WARNING
+DQ-05,profitandloss,COALINDIA,2015-03,opm_percentage,opm delta 17266.4,WARNING
+DQ-05,profitandloss,COALINDIA,2016-03,opm_percentage,opm delta 18638.04,WARNING
+DQ-05,profitandloss,COALINDIA,2017-03,opm_percentage,opm delta 12363.93,WARNING
+DQ-05,profitandloss,COALINDIA,2018-03,opm_percentage,opm delta 9198.9,WARNING
+DQ-05,profitandloss,COALINDIA,2019-03,opm_percentage,opm delta 24932.11,WARNING
+DQ-05,profitandloss,COALINDIA,2020-03,opm_percentage,opm delta 21503.46,WARNING
+DQ-05,profitandloss,COALINDIA,2021-03,opm_percentage,opm delta 18548.69,WARNING
+DQ-05,profitandloss,COALINDIA,2022-03,opm_percentage,opm delta 24643.53,WARNING
+DQ-05,profitandloss,COALINDIA,2023-03,opm_percentage,opm delta 44163.99,WARNING
+DQ-05,profitandloss,COALINDIA,2024-03,opm_percentage,opm delta 47904.71,WARNING
+DQ-05,profitandloss,HDFCBANK,2013-03,opm_percentage,opm delta 3498.78,WARNING
+DQ-05,profitandloss,HDFCBANK,2014-03,opm_percentage,opm delta 5570.26,WARNING
+DQ-05,profitandloss,HDFCBANK,2015-03,opm_percentage,opm delta 7182.1,WARNING
+DQ-05,profitandloss,HDFCBANK,2016-03,opm_percentage,opm delta 9005.25,WARNING
+DQ-05,profitandloss,HDFCBANK,2017-03,opm_percentage,opm delta 11341.44,WARNING
+DQ-05,profitandloss,HDFCBANK,2018-03,opm_percentage,opm delta 13339.37,WARNING
+DQ-05,profitandloss,HDFCBANK,2019-03,opm_percentage,opm delta 16558.85,WARNING
+DQ-05,profitandloss,HDFCBANK,2020-03,opm_percentage,opm delta 14555.8,WARNING
+DQ-05,profitandloss,HDFCBANK,2021-03,opm_percentage,opm delta 16807.19,WARNING
+DQ-05,profitandloss,HDFCBANK,2022-03,opm_percentage,opm delta 20753.39,WARNING
+DQ-05,profitandloss,HDFCBANK,2023-03,opm_percentage,opm delta 29895.08,WARNING
+DQ-05,profitandloss,HDFCBANK,2024-03,opm_percentage,opm delta 44746.41,WARNING
+DQ-05,profitandloss,HDFCLIFE,2013-03,opm_percentage,opm delta 428.73,WARNING
+DQ-05,profitandloss,HDFCLIFE,2014-03,opm_percentage,opm delta 508.52,WARNING
+DQ-05,profitandloss,HDFCLIFE,2015-03,opm_percentage,opm delta 777.21,WARNING
+DQ-05,profitandloss,HDFCLIFE,2016-03,opm_percentage,opm delta 858.26,WARNING
+DQ-05,profitandloss,HDFCLIFE,2017-03,opm_percentage,opm delta 875.17,WARNING
+DQ-05,profitandloss,HDFCLIFE,2018-03,opm_percentage,opm delta 977.33,WARNING
+DQ-05,profitandloss,HDFCLIFE,2019-03,opm_percentage,opm delta 1118.13,WARNING
+DQ-05,profitandloss,HDFCLIFE,2020-03,opm_percentage,opm delta 1044.88,WARNING
+DQ-05,profitandloss,HDFCLIFE,2021-03,opm_percentage,opm delta 1136.73,WARNING
+DQ-05,profitandloss,HDFCLIFE,2022-03,opm_percentage,opm delta 679.16,WARNING
+DQ-05,profitandloss,HDFCLIFE,2023-03,opm_percentage,opm delta 19.89,WARNING
+DQ-05,profitandloss,HDFCLIFE,2024-03,opm_percentage,opm delta 431.52,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2014-03,opm_percentage,opm delta 3467.06,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2015-03,opm_percentage,opm delta 3432.78,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2016-03,opm_percentage,opm delta 4339.55,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2017-03,opm_percentage,opm delta 4501.03,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2018-03,opm_percentage,opm delta 5250.43,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2019-03,opm_percentage,opm delta 4939.79,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2020-03,opm_percentage,opm delta 3983.91,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2021-03,opm_percentage,opm delta 3971.1,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2022-03,opm_percentage,opm delta 3167.02,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2023-03,opm_percentage,opm delta 4011.0,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2024-03,opm_percentage,opm delta 5148.85,WARNING
+DQ-05,profitandloss,HINDALCO,2013-03,opm_percentage,opm delta 7608.6,WARNING
+DQ-05,profitandloss,HINDALCO,2014-03,opm_percentage,opm delta 7933.15,WARNING
+DQ-05,profitandloss,HINDALCO,2015-03,opm_percentage,opm delta 8752.48,WARNING
+DQ-05,profitandloss,HINDALCO,2016-03,opm_percentage,opm delta 7685.88,WARNING
+DQ-05,profitandloss,HINDALCO,2017-03,opm_percentage,opm delta 12229.29,WARNING
+DQ-05,profitandloss,HINDALCO,2018-03,opm_percentage,opm delta 13606.89,WARNING
+DQ-05,profitandloss,HINDALCO,2019-03,opm_percentage,opm delta 15422.88,WARNING
+DQ-05,profitandloss,HINDALCO,2020-03,opm_percentage,opm delta 14218.11,WARNING
+DQ-05,profitandloss,HINDALCO,2021-03,opm_percentage,opm delta 17472.3,WARNING
+DQ-05,profitandloss,HINDALCO,2022-03,opm_percentage,opm delta 28261.53,WARNING
+DQ-05,profitandloss,HINDALCO,2023-03,opm_percentage,opm delta 22576.15,WARNING
+DQ-05,profitandloss,HINDALCO,2024-03,opm_percentage,opm delta 23783.05,WARNING
+DQ-05,profitandloss,HINDUNILVR,2013-03,opm_percentage,opm delta 4135.63,WARNING
+DQ-05,profitandloss,HINDUNILVR,2014-03,opm_percentage,opm delta 4675.28,WARNING
+DQ-05,profitandloss,HINDUNILVR,2015-03,opm_percentage,opm delta 5328.93,WARNING
+DQ-05,profitandloss,HINDUNILVR,2016-03,opm_percentage,opm delta 5828.36,WARNING
+DQ-05,profitandloss,HINDUNILVR,2017-03,opm_percentage,opm delta 6247.08,WARNING
+DQ-05,profitandloss,HINDUNILVR,2018-03,opm_percentage,opm delta 7420.1,WARNING
+DQ-05,profitandloss,HINDUNILVR,2019-03,opm_percentage,opm delta 8802.59,WARNING
+DQ-05,profitandloss,HINDUNILVR,2020-03,opm_percentage,opm delta 9785.79,WARNING
+DQ-05,profitandloss,HINDUNILVR,2021-03,opm_percentage,opm delta 11550.72,WARNING
+DQ-05,profitandloss,HINDUNILVR,2022-03,opm_percentage,opm delta 12781.51,WARNING
+DQ-05,profitandloss,HINDUNILVR,2023-03,opm_percentage,opm delta 14070.35,WARNING
+DQ-05,profitandloss,HINDUNILVR,2024-03,opm_percentage,opm delta 14582.68,WARNING
+DQ-05,profitandloss,ICICIBANK,2013-03,opm_percentage,opm delta 15155.59,WARNING
+DQ-05,profitandloss,ICICIBANK,2014-03,opm_percentage,opm delta 13150.4,WARNING
+DQ-05,profitandloss,ICICIBANK,2015-03,opm_percentage,opm delta 16190.53,WARNING
+DQ-05,profitandloss,ICICIBANK,2016-03,opm_percentage,opm delta 27043.12,WARNING
+DQ-05,profitandloss,ICICIBANK,2017-03,opm_percentage,opm delta 37841.76,WARNING
+DQ-05,profitandloss,ICICIBANK,2018-03,opm_percentage,opm delta 45023.12,WARNING
+DQ-05,profitandloss,ICICIBANK,2019-03,opm_percentage,opm delta 51087.38,WARNING
+DQ-05,profitandloss,ICICIBANK,2020-03,opm_percentage,opm delta 45290.62,WARNING
+DQ-05,profitandloss,ICICIBANK,2021-03,opm_percentage,opm delta 44907.41,WARNING
+DQ-05,profitandloss,ICICIBANK,2022-03,opm_percentage,opm delta 26642.69,WARNING
+DQ-05,profitandloss,ICICIBANK,2023-03,opm_percentage,opm delta 17413.57,WARNING
+DQ-05,profitandloss,ICICIBANK,2024-03,opm_percentage,opm delta 14214.41,WARNING
+DQ-05,profitandloss,ICICIGI,2013-03,opm_percentage,opm delta 282.46,WARNING
+DQ-05,profitandloss,ICICIGI,2014-03,opm_percentage,opm delta 330.19,WARNING
+DQ-05,profitandloss,ICICIGI,2015-03,opm_percentage,opm delta 326.24,WARNING
+DQ-05,profitandloss,ICICIGI,2016-03,opm_percentage,opm delta 676.66,WARNING
+DQ-05,profitandloss,ICICIGI,2017-03,opm_percentage,opm delta 831.22,WARNING
+DQ-05,profitandloss,ICICIGI,2018-03,opm_percentage,opm delta 365.79,WARNING
+DQ-05,profitandloss,ICICIGI,2019-03,opm_percentage,opm delta 1583.95,WARNING
+DQ-05,profitandloss,ICICIGI,2020-03,opm_percentage,opm delta 1687.39,WARNING
+DQ-05,profitandloss,ICICIGI,2021-03,opm_percentage,opm delta 1989.03,WARNING
+DQ-05,profitandloss,ICICIGI,2022-03,opm_percentage,opm delta 922.34,WARNING
+DQ-05,profitandloss,ICICIGI,2023-03,opm_percentage,opm delta 1171.07,WARNING
+DQ-05,profitandloss,ICICIGI,2024-03,opm_percentage,opm delta 2489.58,WARNING
+DQ-05,profitandloss,ICICIPRULI,2013-03,opm_percentage,opm delta 648.72,WARNING
+DQ-05,profitandloss,ICICIPRULI,2014-03,opm_percentage,opm delta 1410.87,WARNING
+DQ-05,profitandloss,ICICIPRULI,2015-03,opm_percentage,opm delta 1559.8,WARNING
+DQ-05,profitandloss,ICICIPRULI,2016-03,opm_percentage,opm delta 1750.83,WARNING
+DQ-05,profitandloss,ICICIPRULI,2017-03,opm_percentage,opm delta 1710.78,WARNING
+DQ-05,profitandloss,ICICIPRULI,2018-03,opm_percentage,opm delta 1675.56,WARNING
+DQ-05,profitandloss,ICICIPRULI,2019-03,opm_percentage,opm delta 442.3,WARNING
+DQ-05,profitandloss,ICICIPRULI,2020-03,opm_percentage,opm delta 420.52,WARNING
+DQ-05,profitandloss,ICICIPRULI,2021-03,opm_percentage,opm delta 490.47,WARNING
+DQ-05,profitandloss,ICICIPRULI,2022-03,opm_percentage,opm delta 2266.4,WARNING
+DQ-05,profitandloss,ICICIPRULI,2023-03,opm_percentage,opm delta 1860.48,WARNING
+DQ-05,profitandloss,ICICIPRULI,2024-03,opm_percentage,opm delta 1931.03,WARNING
+DQ-05,profitandloss,INDUSINDBK,2013-03,opm_percentage,opm delta 258.12,WARNING
+DQ-05,profitandloss,INDUSINDBK,2014-03,opm_percentage,opm delta 304.05,WARNING
+DQ-05,profitandloss,INDUSINDBK,2015-03,opm_percentage,opm delta 255.67,WARNING
+DQ-05,profitandloss,INDUSINDBK,2016-03,opm_percentage,opm delta 293.72,WARNING
+DQ-05,profitandloss,INDUSINDBK,2017-03,opm_percentage,opm delta 339.54,WARNING
+DQ-05,profitandloss,INDUSINDBK,2018-03,opm_percentage,opm delta 904.07,WARNING
+DQ-05,profitandloss,INDUSINDBK,2019-03,opm_percentage,opm delta 478.7,WARNING
+DQ-05,profitandloss,INDUSINDBK,2020-03,opm_percentage,opm delta 596.81,WARNING
+DQ-05,profitandloss,INDUSINDBK,2021-03,opm_percentage,opm delta 2524.16,WARNING
+DQ-05,profitandloss,INDUSINDBK,2022-03,opm_percentage,opm delta 890.39,WARNING
+DQ-05,profitandloss,INDUSINDBK,2023-03,opm_percentage,opm delta 2024.31,WARNING
+DQ-05,profitandloss,INDUSINDBK,2024-03,opm_percentage,opm delta 2939.45,WARNING
+DQ-05,profitandloss,JIOFIN,2023-03,opm_percentage,opm delta 1.33,WARNING
+DQ-05,profitandloss,KOTAKBANK,2013-03,opm_percentage,opm delta 1849.92,WARNING
+DQ-05,profitandloss,KOTAKBANK,2014-03,opm_percentage,opm delta 1437.84,WARNING
+DQ-05,profitandloss,KOTAKBANK,2015-03,opm_percentage,opm delta 3438.96,WARNING
+DQ-05,profitandloss,KOTAKBANK,2016-03,opm_percentage,opm delta 2319.57,WARNING
+DQ-05,profitandloss,KOTAKBANK,2017-03,opm_percentage,opm delta 4031.44,WARNING
+DQ-05,profitandloss,KOTAKBANK,2018-03,opm_percentage,opm delta 4207.87,WARNING
+DQ-05,profitandloss,KOTAKBANK,2019-03,opm_percentage,opm delta 5180.23,WARNING
+DQ-05,profitandloss,KOTAKBANK,2020-03,opm_percentage,opm delta 5072.45,WARNING
+DQ-05,profitandloss,KOTAKBANK,2021-03,opm_percentage,opm delta 10048.83,WARNING
+DQ-05,profitandloss,KOTAKBANK,2022-03,opm_percentage,opm delta 8602.98,WARNING
+DQ-05,profitandloss,KOTAKBANK,2023-03,opm_percentage,opm delta 5825.44,WARNING
+DQ-05,profitandloss,KOTAKBANK,2024-03,opm_percentage,opm delta 13465.67,WARNING
+DQ-05,profitandloss,SUNPHARMA,2024-03,opm_percentage,opm delta 1.16,WARNING
+DQ-05,profitandloss,INDIGO,2013-03,opm_percentage,opm delta 764.29,WARNING
+DQ-05,profitandloss,INDIGO,2014-03,opm_percentage,opm delta 336.89,WARNING
+DQ-05,profitandloss,INDIGO,2015-03,opm_percentage,opm delta 1817.67,WARNING
+DQ-05,profitandloss,INDIGO,2016-03,opm_percentage,opm delta 3083.6,WARNING
+DQ-05,profitandloss,INDIGO,2017-03,opm_percentage,opm delta 2130.94,WARNING
+DQ-05,profitandloss,INDIGO,2018-03,opm_percentage,opm delta 2943.16,WARNING
+DQ-05,profitandloss,INDIGO,2019-03,opm_percentage,opm delta 251.53,WARNING
+DQ-05,profitandloss,INDIGO,2020-03,opm_percentage,opm delta 3980.38,WARNING
+DQ-05,profitandloss,INDIGO,2021-03,opm_percentage,opm delta 97.98,WARNING
+DQ-05,profitandloss,INDIGO,2022-03,opm_percentage,opm delta 460.15,WARNING
+DQ-05,profitandloss,INDIGO,2023-03,opm_percentage,opm delta 6432.98,WARNING
+DQ-05,profitandloss,INDIGO,2024-03,opm_percentage,opm delta 16254.7,WARNING
+DQ-06,profitandloss,ADANIENSOL,2014-03,sales,sales <= 0,WARNING
+DQ-09,cashflow,TVSMOTOR,2022-03,net_cash_flow,cf mismatch 660.0,WARNING
+DQ-11,profitandloss,ADANIENT,2014-03,tax_percentage,tax out of range -64.0,WARNING
+DQ-11,profitandloss,ADANIGREEN,2017-03,tax_percentage,tax out of range -75.0,WARNING
+DQ-11,profitandloss,ADANIGREEN,2018-03,tax_percentage,tax out of range -35.0,WARNING
+DQ-11,profitandloss,ADANIGREEN,2019-03,tax_percentage,tax out of range -19.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2014-03,tax_percentage,tax out of range -79.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2016-03,tax_percentage,tax out of range -47.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2017-03,tax_percentage,tax out of range -1.0,WARNING
+DQ-11,profitandloss,ADANIPOWER,2023-03,tax_percentage,tax out of range -40.0,WARNING
+DQ-11,profitandloss,AMBUJACEM,2018-12,tax_percentage,tax out of range -2.0,WARNING
+DQ-11,profitandloss,APOLLOHOSP,2018-03,tax_percentage,tax out of range 65.0,WARNING
+DQ-11,profitandloss,AXISBANK,2018-03,tax_percentage,tax out of range -99.0,WARNING
+DQ-11,profitandloss,AXISBANK,2020-03,tax_percentage,tax out of range 67.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2016-03,tax_percentage,tax out of range -19.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2018-03,tax_percentage,tax out of range -9.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2020-03,tax_percentage,tax out of range -99.0,WARNING
+DQ-11,profitandloss,BANKBARODA,2021-03,tax_percentage,tax out of range 77.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2014-03,tax_percentage,tax out of range 62.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2019-03,tax_percentage,tax out of range -99.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2020-03,tax_percentage,tax out of range -28.0,WARNING
+DQ-11,profitandloss,BHARTIARTL,2021-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,BHEL,2016-03,tax_percentage,tax out of range -39.0,WARNING
+DQ-11,profitandloss,BHEL,2018-03,tax_percentage,tax out of range 64.0,WARNING
+DQ-11,profitandloss,BHEL,2020-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,BHEL,2021-03,tax_percentage,tax out of range -25.0,WARNING
+DQ-11,profitandloss,BHEL,2024-03,tax_percentage,tax out of range -16.0,WARNING
+DQ-11,profitandloss,CANBK,2016-03,tax_percentage,tax out of range -13.0,WARNING
+DQ-11,profitandloss,CANBK,2018-03,tax_percentage,tax out of range -36.0,WARNING
+DQ-11,profitandloss,CANBK,2019-03,tax_percentage,tax out of range -99.0,WARNING
+DQ-11,profitandloss,DLF,2014-03,tax_percentage,tax out of range -16.0,WARNING
+DQ-11,profitandloss,DLF,2020-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,DRREDDY,2020-03,tax_percentage,tax out of range -7.0,WARNING
+DQ-11,profitandloss,GODREJCP,2019-03,tax_percentage,tax out of range -12.0,WARNING
+DQ-11,profitandloss,GODREJCP,2024-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,GRASIM,2020-03,tax_percentage,tax out of range -1.0,WARNING
+DQ-11,profitandloss,HDFCLIFE,2024-03,tax_percentage,tax out of range -61.0,WARNING
+DQ-11,profitandloss,HINDALCO,2015-03,tax_percentage,tax out of range 75.0,WARNING
+DQ-11,profitandloss,HINDALCO,2016-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,IOC,2020-03,tax_percentage,tax out of range -74.0,WARNING
+DQ-11,profitandloss,IRFC,2013-03,tax_percentage,tax out of range 64.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2015-03,tax_percentage,tax out of range -6.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2016-03,tax_percentage,tax out of range -22.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2017-03,tax_percentage,tax out of range -17.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2018-03,tax_percentage,tax out of range -13.0,WARNING
+DQ-11,profitandloss,JINDALSTEL,2019-03,tax_percentage,tax out of range -14.0,WARNING
+DQ-11,profitandloss,JSWENERGY,2018-03,tax_percentage,tax out of range 75.0,WARNING
+DQ-11,profitandloss,JSWSTEEL,2014-03,tax_percentage,tax out of range 70.0,WARNING
+DQ-11,profitandloss,JSWSTEEL,2016-03,tax_percentage,tax out of range -80.0,WARNING
+DQ-11,profitandloss,JSWSTEEL,2020-03,tax_percentage,tax out of range -30.0,WARNING
+DQ-11,profitandloss,LICI,2019-03,tax_percentage,tax out of range 68.0,WARNING
+DQ-11,profitandloss,LICI,2020-03,tax_percentage,tax out of range 80.0,WARNING
+DQ-11,profitandloss,LICI,2021-03,tax_percentage,tax out of range 76.0,WARNING
+DQ-11,profitandloss,LICI,2022-03,tax_percentage,tax out of range 66.0,WARNING
+DQ-11,profitandloss,LODHA,2021-03,tax_percentage,tax out of range -44.0,WARNING
+DQ-11,profitandloss,LODHA,2023-03,tax_percentage,tax out of range -8.0,WARNING
+DQ-11,profitandloss,M&M,2020-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,MOTHERSON,2020-03,tax_percentage,tax out of range -5.0,WARNING
+DQ-11,profitandloss,NAUKRI,2015-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,NAUKRI,2017-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,NAUKRI,2020-03,tax_percentage,tax out of range 95.0,WARNING
+DQ-11,profitandloss,NAUKRI,2023-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,NHPC,2020-03,tax_percentage,tax out of range -2.0,WARNING
+DQ-11,profitandloss,NHPC,2022-03,tax_percentage,tax out of range -17.0,WARNING
+DQ-11,profitandloss,NTPC,2016-03,tax_percentage,tax out of range -2.0,WARNING
+DQ-11,profitandloss,NTPC,2019-03,tax_percentage,tax out of range -25.0,WARNING
+DQ-11,profitandloss,PNB,2016-03,tax_percentage,tax out of range -31.0,WARNING
+DQ-11,profitandloss,PNB,2018-03,tax_percentage,tax out of range -37.0,WARNING
+DQ-11,profitandloss,PNB,2019-03,tax_percentage,tax out of range -35.0,WARNING
+DQ-11,profitandloss,POWERGRID,2019-03,tax_percentage,tax out of range -10.0,WARNING
+DQ-11,profitandloss,SBIN,2017-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,SBIN,2018-03,tax_percentage,tax out of range -66.0,WARNING
+DQ-11,profitandloss,SHREECEM,2015-06,tax_percentage,tax out of range -6.0,WARNING
+DQ-11,profitandloss,TATACONSUM,2016-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TATAMOTORS,2019-03,tax_percentage,tax out of range -8.0,WARNING
+DQ-11,profitandloss,TATAMOTORS,2024-03,tax_percentage,tax out of range -14.0,WARNING
+DQ-11,profitandloss,TATAPOWER,2013-03,tax_percentage,tax out of range 92.0,WARNING
+DQ-11,profitandloss,TATAPOWER,2014-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TATAPOWER,2015-03,tax_percentage,tax out of range 72.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2013-03,tax_percentage,tax out of range 78.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2015-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2016-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2017-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2020-03,tax_percentage,tax out of range -99.0,WARNING
+DQ-11,profitandloss,TATASTEEL,2024-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TRENT,2013-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TRENT,2014-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,TRENT,2021-03,tax_percentage,tax out of range -12.0,WARNING
+DQ-11,profitandloss,TRENT,2022-03,tax_percentage,tax out of range 69.0,WARNING
+DQ-11,profitandloss,ULTRACEMCO,2020-03,tax_percentage,tax out of range -11.0,WARNING
+DQ-11,profitandloss,UNIONBANK,2017-03,tax_percentage,tax out of range -58.0,WARNING
+DQ-11,profitandloss,UNIONBANK,2018-03,tax_percentage,tax out of range -21.0,WARNING
+DQ-11,profitandloss,UNIONBANK,2019-03,tax_percentage,tax out of range -25.0,WARNING
+DQ-11,profitandloss,UNIONBANK,2020-03,tax_percentage,tax out of range -27.0,WARNING
+DQ-11,profitandloss,UNIONBANK,2021-03,tax_percentage,tax out of range -22.0,WARNING
+DQ-11,profitandloss,UNITDSPR,2013-03,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,UNITDSPR,2016-03,tax_percentage,tax out of range 61.0,WARNING
+DQ-11,profitandloss,VBL,2012-12,tax_percentage,tax out of range -20.0,WARNING
+DQ-11,profitandloss,VBL,2013-12,tax_percentage,tax out of range -11.0,WARNING
+DQ-11,profitandloss,VBL,2014-12,tax_percentage,tax out of range 99.0,WARNING
+DQ-11,profitandloss,VEDL,2013-03,tax_percentage,tax out of range -25.0,WARNING
+DQ-11,profitandloss,VEDL,2014-03,tax_percentage,tax out of range -9.0,WARNING
+DQ-11,profitandloss,VEDL,2016-03,tax_percentage,tax out of range -37.0,WARNING
+DQ-11,profitandloss,VEDL,2020-03,tax_percentage,tax out of range -43.0,WARNING
+DQ-11,profitandloss,VEDL,2024-03,tax_percentage,tax out of range 63.0,WARNING
+DQ-11,profitandloss,ZOMATO,2023-03,tax_percentage,tax out of range -4.0,WARNING
+DQ-11,profitandloss,ZOMATO,2024-03,tax_percentage,tax out of range -21.0,WARNING
+DQ-11,profitandloss,INDIGO,2019-03,tax_percentage,tax out of range -99.0,WARNING
+DQ-11,profitandloss,INDIGO,2020-03,tax_percentage,tax out of range -10.0,WARNING
+DQ-11,profitandloss,INDIGO,2024-03,tax_percentage,tax out of range -2.0,WARNING
+DQ-12,profitandloss,BHARTIARTL,2019-03,dividend_payout,payout > 200 244.0,WARNING
+DQ-12,profitandloss,BRITANNIA,2021-03,dividend_payout,payout > 200 204.0,WARNING
+DQ-12,profitandloss,M&M,2020-03,dividend_payout,payout > 200 205.0,WARNING
+DQ-12,profitandloss,SBIN,2017-03,dividend_payout,payout > 200 859.0,WARNING
+DQ-12,profitandloss,TATAPOWER,2015-03,dividend_payout,payout > 200 210.0,WARNING
+DQ-12,profitandloss,VEDL,2023-03,dividend_payout,payout > 200 357.0,WARNING
+DQ-12,profitandloss,VEDL,2024-03,dividend_payout,payout > 200 259.0,WARNING
+DQ-14,profitandloss,JSWENERGY,2018-03,eps,eps sign mismatch,WARNING
+DQ-14,profitandloss,TATAPOWER,2013-03,eps,eps sign mismatch,WARNING
+DQ-14,profitandloss,TATAPOWER,2014-03,eps,eps sign mismatch,WARNING
+DQ-14,profitandloss,VBL,2016-12,eps,eps sign mismatch,WARNING
+DQ-14,profitandloss,ZOMATO,2024-03,eps,eps sign mismatch,WARNING
+DQ-16,profitandloss,JIOFIN,,company_id,,WARNING
+DQ-16,profitandloss,,,company_id,coverage 2 yrs,WARNING
+DQ-16,balancesheet,JIOFIN,,company_id,,WARNING
+DQ-16,balancesheet,,,company_id,coverage 3 yrs,WARNING
+DQ-16,cashflow,JIOFIN,,company_id,,WARNING
+DQ-16,cashflow,,,company_id,coverage 2 yrs,WARNING

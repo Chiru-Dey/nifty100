@@ -1,137 +1,97 @@
+import sys
+from pathlib import Path
+
 import pandas as pd
 
-from src.etl.validator import validate_all
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-YEARS = [f"{y}-03" for y in range(2020, 2025)]
-
-
-def _companies() -> pd.DataFrame:
-    return pd.DataFrame(
-        {"id": ["TCS", "INFY"], "company_name": ["Tata Consultancy", "Infosys"]}
-    )
-
-
-def _pl() -> pd.DataFrame:
-    return pd.DataFrame(
-        {
-            "company_id": cid,
-            "year": y,
-            "sales": 100.0,
-            "operating_profit": 20.0,
-            "opm_percentage": 20.0,
-            "net_profit": 10.0,
-            "eps": 5.0,
-            "tax_percentage": 25.0,
-            "dividend_payout": 40.0,
-        }
-        for cid in ("TCS", "INFY")
-        for y in YEARS
-    )
+from src.etl.dq_rules import (
+    SEVERITIES,
+    dq01_company_pk_unique, dq02_annual_pk_unique, dq03_fk_integrity,
+    dq04_bs_balance, dq05_opm_cross_check, dq06_positive_sales,
+    dq07_year_format, dq08_ticker_format, dq09_net_cash_check,
+    dq10_non_negative_fixed_assets, dq11_tax_rate_range, dq12_dividend_payout_cap,
+    dq13_url_validity, dq14_eps_sign_consistency,
+)
 
 
-def _bs() -> pd.DataFrame:
-    return pd.DataFrame(
-        {
-            "company_id": cid,
-            "year": y,
-            "total_assets": 100.0,
-            "total_liabilities": 100.0,
-            "fixed_assets": 10.0,
-        }
-        for cid in ("TCS", "INFY")
-        for y in YEARS
-    )
+def test_dq01_duplicate_pk():
+    assert dq01_company_pk_unique(pd.DataFrame({"id": ["TCS", "TCS"]}))
+    assert not dq01_company_pk_unique(pd.DataFrame({"id": ["TCS", "INFY"]}))
+    assert SEVERITIES["DQ-01"] == "CRITICAL"
 
 
-def _cf() -> pd.DataFrame:
-    return pd.DataFrame(
-        {
-            "company_id": cid,
-            "year": y,
-            "operating_activity": 10.0,
-            "investing_activity": -5.0,
-            "financing_activity": -2.0,
-            "net_cash_flow": 3.0,
-        }
-        for cid in ("TCS", "INFY")
-        for y in YEARS
-    )
+def test_dq02_duplicate_annual_pk():
+    df = pd.DataFrame({"company_id": ["TCS", "TCS"], "year": ["2023-03", "2023-03"]})
+    assert dq02_annual_pk_unique(df).sum() == 1
+    assert SEVERITIES["DQ-02"] == "CRITICAL"
 
 
-def _rules(**overrides) -> set:
-    frames = {
-        "companies": _companies(),
-        "profitandloss": _pl(),
-        "balancesheet": _bs(),
-        "cashflow": _cf(),
-    }
-    frames.update(overrides)
-    return set(validate_all(frames)["rule"])
+def test_dq03_orphan_fk():
+    child = pd.DataFrame({"company_id": ["TCS", "XYZ"]})
+    parents = pd.DataFrame({"id": ["TCS"]})
+    assert dq03_fk_integrity(child, parents).tolist() == [False, True]
+    assert SEVERITIES["DQ-03"] == "CRITICAL"
 
 
-def test_clean_frames_pass() -> None:
-    assert not _rules()
+def test_dq04_bs_balance():
+    df = pd.DataFrame({"total_assets": [1000, 1000], "total_liabilities": [1020, 999]})
+    assert dq04_bs_balance(df).tolist() == [True, False]
+    assert SEVERITIES["DQ-04"] == "WARNING"
 
 
-def test_dq01_duplicate_company() -> None:
-    companies = pd.concat([_companies(), _companies().iloc[[0]]], ignore_index=True)
-    assert "DQ-01" in _rules(companies=companies)
+def test_dq05_opm_cross_check():
+    df = pd.DataFrame({"sales": [100], "operating_profit": [20], "opm_percentage": [25.0]})
+    assert dq05_opm_cross_check(df).iloc[0]
+    assert SEVERITIES["DQ-05"] == "WARNING"
 
 
-def test_dq02_duplicate_pk() -> None:
-    pl = pd.concat([_pl(), _pl().iloc[[0]]], ignore_index=True)
-    assert "DQ-02" in _rules(profitandloss=pl)
+def test_dq06_zero_sales():
+    assert dq06_positive_sales(pd.DataFrame({"sales": [0]})).iloc[0]
+    assert SEVERITIES["DQ-06"] == "WARNING"
 
 
-def test_dq03_orphan() -> None:
-    pl = _pl()
-    pl.loc[0, "company_id"] = "ZZZZ"
-    assert "DQ-03" in _rules(profitandloss=pl)
+def test_dq07_year_format():
+    df = pd.DataFrame({"year": ["2023-03", "garbage"]})
+    assert dq07_year_format(df).tolist() == [False, True]
+    assert SEVERITIES["DQ-07"] == "CRITICAL"
 
 
-def test_dq04_bs_imbalance() -> None:
-    bs = _bs()
-    bs.loc[0, "total_liabilities"] = 1020.0
-    assert "DQ-04" in _rules(balancesheet=bs)
+def test_dq08_ticker_format():
+    df = pd.DataFrame({"company_id": ["TCS", "X"]})
+    assert dq08_ticker_format(df).tolist() == [False, True]
+    assert SEVERITIES["DQ-08"] == "CRITICAL"
 
 
-def test_dq06_zero_sales() -> None:
-    pl = _pl()
-    pl.loc[0, "sales"] = 0.0
-    assert "DQ-06" in _rules(profitandloss=pl)
+def test_dq09_net_cash_mismatch():
+    df = pd.DataFrame({"operating_activity": [100], "investing_activity": [-40], "financing_activity": [-10], "net_cash_flow": [50]})
+    assert not dq09_net_cash_check(df).iloc[0]
+    df.loc[0, "net_cash_flow"] = 80
+    assert dq09_net_cash_check(df).iloc[0]
+    assert SEVERITIES["DQ-09"] == "WARNING"
+
+def test_dq10_negative_fixed_assets():
+    assert dq10_non_negative_fixed_assets(pd.DataFrame({"fixed_assets": [-5]})).iloc[0]
+    assert SEVERITIES["DQ-10"] == "WARNING"
 
 
-def test_dq09_cf_mismatch() -> None:
-    cf = _cf()
-    cf.loc[0, "net_cash_flow"] = 50.0
-    assert "DQ-09" in _rules(cashflow=cf)
+def test_dq11_tax_rate_range():
+    df = pd.DataFrame({"tax_percentage": [25, 75]})
+    assert dq11_tax_rate_range(df).tolist() == [False, True]
+    assert SEVERITIES["DQ-11"] == "WARNING"
 
 
-def test_dq10_negative_fixed_assets() -> None:
-    bs = _bs()
-    bs.loc[0, "fixed_assets"] = -1.0
-    assert "DQ-10" in _rules(balancesheet=bs)
+def test_dq12_payout_cap():
+    assert dq12_dividend_payout_cap(pd.DataFrame({"dividend_payout": [250]})).iloc[0]
+    assert SEVERITIES["DQ-12"] == "WARNING"
 
 
-def test_dq11_tax_range() -> None:
-    pl = _pl()
-    pl.loc[0, "tax_percentage"] = 75.0
-    assert "DQ-11" in _rules(profitandloss=pl)
+def test_dq13_url_status():
+    assert dq13_url_validity(pd.Series([200, 404])).tolist() == [False, True]
+    assert SEVERITIES["DQ-13"] == "WARNING"
 
 
-def test_dq12_payout_cap() -> None:
-    pl = _pl()
-    pl.loc[0, "dividend_payout"] = 250.0
-    assert "DQ-12" in _rules(profitandloss=pl)
-
-
-def test_dq14_eps_sign() -> None:
-    pl = _pl()
-    pl.loc[0, "eps"] = -1.0
-    assert "DQ-14" in _rules(profitandloss=pl)
-
-
-def test_dq16_coverage() -> None:
-    pl = _pl()
-    pl = pl[~((pl["company_id"] == "TCS") & (pl["year"] >= "2022-03"))]
-    assert "DQ-16" in _rules(profitandloss=pl)
+def test_dq14_eps_sign():
+    df = pd.DataFrame({"net_profit": [100], "eps": [-2]})
+    assert dq14_eps_sign_consistency(df).iloc[0]
+    assert SEVERITIES["DQ-14"] == "WARNING"

@@ -1,0 +1,53 @@
+company_id,company_name,sector,P/E,sector_median_pe,PE_vs_sector_median_pct,flag,rationale
+ABB,Abbott India Ltd,Industrials,75.58,47.155,60.3,Caution,P/E 75.6 > 1.5x sector median 47.2
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,15.07,34.24,-56.0,Discount,P/E 15.1 < 0.7x sector median 34.2
+BAJFINANCE,Bajaj Finance Ltd,Financials,69.2,34.24,102.1,Caution,P/E 69.2 > 1.5x sector median 34.2
+BANKBARODA,Bank of Baroda,Financials,16.89,34.24,-50.7,Discount,P/E 16.9 < 0.7x sector median 34.2
+BEL,Bharat Electronics Ltd,Industrials,17.89,47.155,-62.1,Discount,P/E 17.9 < 0.7x sector median 47.2
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,29.8,47.155,-36.8,Discount,P/E 29.8 < 0.7x sector median 47.2
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,58.43,38.005,53.7,Caution,P/E 58.4 > 1.5x sector median 38.0
+BPCL,Bharat Petroleum Corporation Ltd,Energy,68.15,44.915,51.7,Caution,P/E 68.2 > 1.5x sector median 44.9
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,16.79,34.24,-51.0,Discount,P/E 16.8 < 0.7x sector median 34.2
+COALINDIA,Coal India Ltd,Materials,34.27,55.62,-38.4,Discount,P/E 34.3 < 0.7x sector median 55.6
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,72.53,38.005,90.8,Caution,P/E 72.5 > 1.5x sector median 38.0
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.73,47.06,-75.1,Discount,P/E 11.7 < 0.7x sector median 47.1
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,15.62,38.005,-58.9,Discount,P/E 15.6 < 0.7x sector median 38.0
+GAIL,GAIL (India) Ltd,Energy,25.84,44.915,-42.5,Discount,P/E 25.8 < 0.7x sector median 44.9
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,33.59,50.95,-34.1,Discount,P/E 33.6 < 0.7x sector median 51.0
+GRASIM,Grasim Industries Ltd,Industrials,79.35,47.155,68.3,Caution,P/E 79.3 > 1.5x sector median 47.2
+HAL,Hindustan Aeronautics Ltd,Industrials,71.89,47.155,52.5,Caution,P/E 71.9 > 1.5x sector median 47.2
+HINDUNILVR,"Hindustan Unilever Ltd
+",Consumer Staples,34.51,50.95,-32.3,Discount,P/E 34.5 < 0.7x sector median 51.0
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,20.83,34.24,-39.2,Discount,P/E 20.8 < 0.7x sector median 34.2
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,76.23,38.005,100.6,Caution,P/E 76.2 > 1.5x sector median 38.0
+INDUSINDBK,IndusInd Bank Ltd,Financials,8.99,34.24,-73.7,Discount,P/E 9.0 < 0.7x sector median 34.2
+INFY,Infosys Ltd,Information Technology,35.99,63.63,-43.4,Discount,P/E 36.0 < 0.7x sector median 63.6
+IOC,"Indian Oil Corporation
+",Energy,28.61,44.915,-36.3,Discount,P/E 28.6 < 0.7x sector median 44.9
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,60.44,38.005,59.0,Caution,P/E 60.4 > 1.5x sector median 38.0
+IRFC,Indian Railway Finance Corporation Ltd,Financials,9.81,34.24,-71.3,Discount,P/E 9.8 < 0.7x sector median 34.2
+JSWENERGY,JSW Energy Ltd,Energy,24.79,44.915,-44.8,Discount,P/E 24.8 < 0.7x sector median 44.9
+LT,Larsen & Toubro Ltd,Industrials,30.8,47.155,-34.7,Discount,P/E 30.8 < 0.7x sector median 47.2
+M&M,"Mahindra & Mahindra Ltd
+",Consumer Discretionary,14.22,38.005,-62.6,Discount,P/E 14.2 < 0.7x sector median 38.0
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,20.78,38.005,-45.3,Discount,P/E 20.8 < 0.7x sector median 38.0
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,9.54,38.005,-74.9,Discount,P/E 9.5 < 0.7x sector median 38.0
+NAUKRI,Info Edge (India) Ltd,Communication Services,32.88,48.33,-32.0,Discount,P/E 32.9 < 0.7x sector median 48.3
+NHPC,"NHPC Ltd
+",Energy,71.17,44.915,58.5,Caution,P/E 71.2 > 1.5x sector median 44.9
+NTPC,NTPC Ltd,Energy,30.8,44.915,-31.4,Discount,P/E 30.8 < 0.7x sector median 44.9
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,18.15,44.915,-59.6,Discount,P/E 18.1 < 0.7x sector median 44.9
+PIDILITIND,Pidilite Industries Ltd,Materials,36.12,55.62,-35.1,Discount,P/E 36.1 < 0.7x sector median 55.6
+PNB,Punjab National Bank,Financials,19.29,34.24,-43.7,Discount,P/E 19.3 < 0.7x sector median 34.2
+SBILIFE,SBI Life Insurance Company Ltd,Financials,69.98,34.24,104.4,Caution,P/E 70.0 > 1.5x sector median 34.2
+SBIN,State Bank of India,Financials,54.93,34.24,60.4,Caution,P/E 54.9 > 1.5x sector median 34.2
+SHREECEM,Shree Cement Ltd,Materials,25.87,55.62,-53.5,Discount,P/E 25.9 < 0.7x sector median 55.6
+SHRIRAMFIN,"Shriram Finance Ltd
+",Financials,68.53,34.24,100.1,Caution,P/E 68.5 > 1.5x sector median 34.2
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,67.07,38.005,76.5,Caution,P/E 67.1 > 1.5x sector median 38.0
+TATAPOWER,"Tata Power Company Ltd
+",Energy,14.5,44.915,-67.7,Discount,P/E 14.5 < 0.7x sector median 44.9
+TITAN,"Titan Company Ltd
+",Consumer Discretionary,10.13,38.005,-73.3,Discount,P/E 10.1 < 0.7x sector median 38.0
+TRENT,Trent Ltd,Consumer Discretionary,8.65,38.005,-77.2,Discount,P/E 8.7 < 0.7x sector median 38.0

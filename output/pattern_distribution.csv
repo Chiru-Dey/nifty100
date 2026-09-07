@@ -1,0 +1,9 @@
+pattern_signs,pattern_label,company_count
++--,Reinvestor / Shareholder Returns,55
++-+,Growth via External Financing,13
+++-,Divestment & Shareholder Returns,7
++++,Liquidity Build,0
+---,Reserve-Funded Investment & Paydown,1
+-+-,Asset-Sale Funded Operations,2
+--+,Distress - Financing the Burn,12
+-++,Distress - Restructuring & Raising,1
